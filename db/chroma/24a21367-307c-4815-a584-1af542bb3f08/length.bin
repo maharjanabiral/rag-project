@@ -1,0 +1,1 @@
+invalid type: string "Model\nMax Learning Rate\nTiny\n1.5 × 10−3\nBase\n1 × 10−3\nSmall\n5 × 10−4\nMedium\n2.5 × 10−4\nLarge\n1.75 × 10−4\nLarge V2\n2.0 × 10−4\nTable 19. Whisper model learning rates.", expected f64oolean0.98\nϵ\n10−6\nWeight Decay\n0.1\nWeight Init\nGaussian Fan-In\nLearning Rate Schedule\nLinear Decay\nSpeechless audio subsample factor\n10×\nch\n401\nHebrew
